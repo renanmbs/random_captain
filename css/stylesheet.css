@@ -86,3 +86,14 @@ h3{
     color: white;
     font-size: 2.5rem;
 }
+
+
+@media only screen and (max-width: 600px){
+    #box{
+        width: 23rem;
+    }
+
+    #results{
+        height: 18.5rem;
+    }
+}
